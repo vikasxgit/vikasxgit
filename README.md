@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasxgit&show_icons=true&locale=en&layout=compact" alt="vikasxgit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasxgit&show_icons=true&locale=en" alt="vikasxgit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasxgit&" alt="vikasxgit" /></p>
