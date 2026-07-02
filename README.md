@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm VIKAS</h1>
 <h3 align="center">Frontend Developer passionate about creating fast, responsive and user-friendly digital experiences with clean code and modern design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasxgit&label=Profile%20views&color=0e75b6&style=flat" alt="vikasxgit" /> </p>
-
 - 🔭 I’m currently working on [vikas/portfolio](https://vikasxgit.github.io/portfolio/)
 
 - 🌱 I’m currently learning **MERN | DSA| JAVA| PYTHON**
