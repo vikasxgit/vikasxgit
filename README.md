@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm VIKAS</h1>
-<h3 align="center">Frontend Developer passionate about creating fast, responsive and user-friendly digital experiences with clean code and modern design.</h3>
+<!-- <h3 align="center">Frontend Developer passionate about creating fast, responsive and user-friendly digital experiences with clean code and modern design.</h3> -->
 
 - 🔭 I’m currently working on [vikas/portfolio](https://vikasxgit.github.io/portfolio/)
 
